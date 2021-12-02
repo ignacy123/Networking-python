@@ -1,0 +1,5 @@
+1. Wyszukuję pierwszego w miarę czystego zera. Gdy takiego nie ma, przesuwam okienko o kawałek dalej i próbuję znowu.
+2. W aktualnej wersji 100 bitów/sekunda. Przy większej ilości już zaczyna się robić ciężko (duży wpływ pewnie ma sprzęt audio na którym pracuję)
+3. Teoretycznie mogę używać dowolnej, testowałem dla 400/800, 700/1400, 1000/2000 i wszystkie działały.
+4. Tak
+

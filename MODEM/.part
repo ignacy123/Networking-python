@@ -1,0 +1,8 @@
+adanie 8 (3 pkt). Rzucamy n razy monetą na której orzeł wypada z prawdopodobieństwem 2
+3
+Podaj jak najmniejszą asymptotycznie funkcję f(n) taką, że
+P
+
+wypadło co najmniej 2
+3
+n + f(n) orłów

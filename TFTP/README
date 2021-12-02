@@ -1,0 +1,4 @@
+Spełnia wszystkie obowiązkowe wymagania (ale dodatkowych już nie)
+Zakładam, że klient prosi o istniejący plik (nie ma obsługi pomyłek, poleci błąd).
+Najefektywniejsze parametry jakie udało mi się znaleźć to windowsize = 3 oraz blocksize = 8000
+Jeżeli jakiś klient zostaje przerwany w trakcie pobierania pliku to serwer cały czas próbuje mu wysłać ostatni blok - jeżeli klienci są zatrzymywani siłą przy testowaniu, to polecam co jakiś czas resetować serwer.
